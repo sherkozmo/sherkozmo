@@ -16,6 +16,7 @@ This project uses national education statistics and attempts to predict which ty
 
 This project was a deep dive in the various visualizations you can create to display data. I built a dashboard, an executive summary, blog post, info graphic and final presentation. While developing these different visualization products I had to consider format, color, ethics and content relative to the audience receiving the information. 
 #### [Link to Dashboard](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Dashboard%20SKosmicki.pdf)
+#### [Link to Infographic](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Milestone%20Infographic%20SKosmicki.pdf)
 
 
 
