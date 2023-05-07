@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="smalltown.jpg" width="650" title="Small town girl">
+</p>
 
 ## Portfolio Spotlight
 
