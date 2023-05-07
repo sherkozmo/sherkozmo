@@ -20,3 +20,12 @@ This project was a deep dive in the various visualizations you can create to dis
 #### [Link to Dashboard](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Dashboard%20SKosmicki.pdf)
 #### [Link to Infographic](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Milestone%20Infographic%20SKosmicki.pdf)
 
+
+### Predicting Fuel Efficiency
+
+This project walks through the steps of data analysis and modeling of vehicle data to include mpg and other relative variables. The data was cleaned, dummy variables created, and two distinct types of modeling were applied to the train and test data sets.
+#### Heat map - Predicting Fuel Efficiency
+![image](https://user-images.githubusercontent.com/70813745/236703480-7020419e-96e8-40f1-9521-1a9d93c1350a.png)
+
+
+
