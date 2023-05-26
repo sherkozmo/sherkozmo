@@ -22,6 +22,10 @@ This project was a deep dive in the various visualizations you can create to dis
 #### [Link to Dashboard](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Dashboard%20SKosmicki.pdf)
 #### [Link to Infographic](https://github.com/sherkozmo/sherkozmo.github.io/blob/Airline-Project/Term%20Project%20Milestone%20Infographic%20SKosmicki.pdf)
 
+### Amazon Review Words Evaluation
+
+This was an opportunity to use the bag of words feature in Python and connect the code with in a Power BI presentation. The goal was to provide commonly used words within an Amazon Review in an interactive dashboard. Once perfected it could be used with any review dataset.
+
 
 ### Predicting Fuel Efficiency
 
@@ -31,4 +35,26 @@ This project walks through the steps of data analysis and modeling of vehicle da
 ![image](https://user-images.githubusercontent.com/70813745/236703480-7020419e-96e8-40f1-9521-1a9d93c1350a.png)
 
 
+### Food Delivery Service Tip Prediction
 
+Food service tip amounts normally can be based on total food service purchased. In this analysis I looked for other variables that could potentially impact the tip awarded such as race, payment type, age of customer or where their home resides. From this information I can predict which variables can determine if the delivery person receives a higher tip amount.
+
+
+### Sentiment Analysis Model
+
+The goal of this project was to use machine learning techniques to look at pieces of text and determine the sentiment within the data – positive, negative, or neutral. The text is transformed into a bag of words model using tf-dif vectorization.
+
+
+### The Return of the King LSTM Text Generator
+
+This project took a downloaded txt file of The Return of the King book from the Lord of the Rings series. I then used the text to create a LSTM deep learning text generator. This process created a list of unique characters and was modeled using a next-character prediction. Lastly, I looped the data into a text generator.
+
+
+### Movie Rating Data from Three Sources
+
+The goal of this project was to bring together three different data sources and join them using python code. The sources I chose were a csv file, url data, and an api connection. Once the data was combined and cleaned, I built different visualizations to evaluate.
+
+
+### Loan Approval Analysis
+
+This project looked at various variables that could be used during the loan application process to predict approval. Several models were used for this project to determine the best possible option. I created a dictionary of learning algorithms and added hyperparameters to look for the best model without data.
