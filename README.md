@@ -8,7 +8,7 @@
 
 Hello! You've landed on the portfolio page for Sherry Kosmicki. I just graduated from Bellevue University with my Masters degree in Data Science. I've worked for a corporate hospital system for over 25 years. Working in Finance has given me a wide range of experience using data and building time-saving solutions. During the COVID lockdown I made the conscious decision to go back to school and learn something new. I learned a new coding language and have a greater understanding of statistics concepts. I've included links to some of the various projects I completed throughout my masters program.
 
-![Projects](projectsbutton.jpg)
+![Projects](projectsbutton2.jpg)
 ![Experience](experience.jpg)
 [![button](downloadresume2.jpg)](https://mattermost.com)
 
