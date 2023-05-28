@@ -10,7 +10,7 @@ Hello! You've landed on the portfolio page for Sherry Kosmicki. I just graduated
 
 ![Projects](projectsbutton2.jpg)
 ![Experience](experience.jpg)
-[![button](downloadresume2.jpg)](https://mattermost.com)
+[![button](downloadresume3.jpg)](https://mattermost.com)
 
 ### Graduation Rates Project
 
