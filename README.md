@@ -16,7 +16,7 @@ Hello! You've landed on the portfolio page for Sherry Kosmicki. I just graduated
 
 This project uses national education statistics and attempts to predict which type of academic institution to choose based on higher graduation rates. Analysis was also done to determine if there is a correlation between those students that receive aid vs those that do not receive aid and the graduation rates.
 #### [Link to Graduation Rates Project Proposal](https://github.com/sherkozmo/sherkozmo.github.io/blob/Graduation-Rates/DSC680%20P1%20Milestone%201%20Proposal%20Sherry%20Kosmicki.pdf)
-
+#### [Link to Graduation Rates Project Proposal2]<a href="[example.com](https://github.com/sherkozmo/sherkozmo.github.io/blob/Graduation-Rates/DSC680%20P1%20Milestone%201%20Proposal%20Sherry%20Kosmicki.pdf)" target="_blank">New Tab</a>
 
 ### Airline Crash Analysis
 
