@@ -53,6 +53,7 @@ The goal of this project was to use machine learning techniques to look at piece
 ### The Return of the King LSTM Text Generator
 
 This project took a downloaded txt file of The Return of the King book from the Lord of the Rings series. I then used the text to create a LSTM deep learning text generator. This process created a list of unique characters and was modeled using a next-character prediction. Lastly, I looped the data into a text generator.
+#### [Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Text-Generator/lstmModel.ipynb)
 
 
 ### Movie Rating Data from Three Sources
