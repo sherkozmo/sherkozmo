@@ -65,3 +65,4 @@ The goal of this project was to bring together three different data sources and 
 ### Loan Approval Analysis
 
 This project looked at various variables that could be used during the loan application process to predict approval. Several models were used for this project to determine the best possible option. I created a dictionary of learning algorithms and added hyperparameters to look for the best model without data.
+#### [Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Loan-Approval-program/Loan%20Approval%20Analysis.ipynb)
