@@ -41,7 +41,7 @@ This project walks through the steps of data analysis and modeling of vehicle da
 ### Food Delivery Service Tip Prediction
 
 Food service tip amounts normally can be based on total food service purchased. In this analysis I looked for other variables that could potentially impact the tip awarded such as race, payment type, age of customer or where their home resides. From this information I can predict which variables can determine if the delivery person receives a higher tip amount.
-####[Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Food-Service-Tip-Prediction/Term%20Project%20-%20Delivery%20Tip%20Prediction.ipynb)
+#### [Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Food-Service-Tip-Prediction/Term%20Project%20-%20Delivery%20Tip%20Prediction.ipynb)
 
 
 ### Sentiment Analysis Model
