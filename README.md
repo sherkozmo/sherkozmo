@@ -47,6 +47,7 @@ Food service tip amounts normally can be based on total food service purchased. 
 ### Sentiment Analysis Model
 
 The goal of this project was to use machine learning techniques to look at pieces of text and determine the sentiment within the data – positive, negative, or neutral. The text is transformed into a bag of words model using tf-dif vectorization.
+#### [Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Sentiment-Analysis/Sentiment%20Analysis%20and%20Preprocessing%20Text.ipynb)
 
 
 ### The Return of the King LSTM Text Generator
