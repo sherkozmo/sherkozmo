@@ -27,7 +27,7 @@ This project was a deep dive in the various visualizations you can create to dis
 ### Amazon Review Words Evaluation
 
 This was an opportunity to use the bag of words feature in Python and connect the code with in a Power BI presentation. The goal was to provide commonly used words within an Amazon Review in an interactive dashboard. Once perfected, it could be used with any review dataset.
-
+#### [Link to White Paper](https://github.com/sherkozmo/sherkozmo.github.io/blob/Amazon-Review-Words-Evaluation/Amazon%20Review%20-%20Final%20White%20Paper.pdf)
 
 
 ### Predicting Fuel Efficiency
