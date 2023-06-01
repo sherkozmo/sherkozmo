@@ -59,6 +59,7 @@ This project took a downloaded txt file of The Return of the King book from the 
 ### Movie Rating Data from Three Sources
 
 The goal of this project was to bring together three different data sources and join them using python code. The sources I chose were a csv file, url data, and an api connection. Once the data was combined and cleaned, I built different visualizations to evaluate.
+#### [Link to Jupyter Notebook Code](https://github.com/sherkozmo/sherkozmo.github.io/blob/Movie-Rating-Data-3-sources/Movie%20Rating%20Data%20from%20Three%20Sources.ipynb)
 
 
 ### Loan Approval Analysis
